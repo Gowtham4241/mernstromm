@@ -5,9 +5,9 @@
   "type": "module",
   "scripts": {
     "dev": "cd backend && node server.js",
-    "build": "cd frontend && vite build",
-    "preview": "cd frontend && vite preview",
-    "clean": "cd backend && rm -rf dist || rmdir /s /q dist",
+    "build": "cd frontend && vite build && cd ../backend && esbuild server.js --bundle --platform=node --format=esm --packages=external --sourcemap --outfile=dist/server.mjs",
+    "start": "cd backend && node dist/server.mjs",
+    "clean": "cd backend && if exist dist rmdir /s /q dist",
     "lint": "cd frontend && tsc --noEmit"
   },
   "dependencies": {
@@ -45,6 +45,7 @@
     "esbuild": "^0.25.0",
     "tailwindcss": "^4.1.14",
     "tsx": "^4.21.0",
-    "typescript": "~5.8.2"
+    "typescript": "~5.8.2",
+    "vite": "^6.2.3"
   }
 }

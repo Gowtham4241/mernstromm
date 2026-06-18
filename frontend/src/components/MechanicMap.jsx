@@ -5,7 +5,7 @@ import 'mapbox-gl/dist/mapbox-gl.css';
 import MechanicMarker from './MechanicMarker.jsx';
 import MechanicPopup from './MechanicPopup.jsx';
 
-const MAPBOX_TOKEN = 'pk.eyJ1IjoicHJpYTA5ODciLCJhIjoiY21xaml0NXA1MGhyYzJycXhycGg2N2JzNyJ9.yO88NridFglGvo5gNT6Hnw';
+const MAPBOX_TOKEN = 'pk.eyJ1IjoicHJpYTA5ODciLCJhIjoiY21nMXM2bTg5MGtvbTJtczJwazVxeXM2bCJ9.MXMSeN-2QBzejQbsfOmUTw';
 
 export default function MechanicMap({
   userLocation,

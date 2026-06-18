@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "cd backend && node server.js",
     "build": "cd frontend && vite build && cd ..\\backend && esbuild server.js --bundle --platform=node --format=esm --packages=external --sourcemap --outfile=dist/server.mjs",
-    "start": "cd backend && node dist/server.js",
+    "start": "cd backend && node dist/server.mjs",
     "clean": "cd backend && if exist dist rmdir /s /q dist",
     "lint": "cd frontend && tsc --noEmit"
   },

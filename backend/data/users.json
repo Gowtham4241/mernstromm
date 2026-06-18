@@ -1,0 +1,34 @@
+[
+  {
+    "id": "usr_admin",
+    "name": "System Admin",
+    "email": "admin@autoaid.ai",
+    "role": "admin",
+    "passwordHash": "$2b$10$YNDWBzj3rGutjZcw5lrz4etf6Rm8yz80W8VnAQXyQVzqvlTzGnokq",
+    "createdAt": "2026-06-17T18:12:28.059Z"
+  },
+  {
+    "id": "usr_demo",
+    "name": "Sarah Jenkins",
+    "email": "demo@autoaid.ai",
+    "role": "user",
+    "passwordHash": "$2b$10$YNDWBzj3rGutjZcw5lrz4eDGShTME7A3K32C074J6gnslC/rGgGJi",
+    "createdAt": "2026-06-17T18:12:28.061Z"
+  },
+  {
+    "name": "hello",
+    "email": "hello@gmail.com",
+    "role": "user",
+    "passwordHash": "$2b$10$QtSIsYGncl.AjIObfqPNKOdJsMaDX3RMG6/YWcnHhu4dUd/MRjzSO",
+    "id": "a5jp1adby",
+    "createdAt": "2026-06-17T18:18:41.117Z"
+  },
+  {
+    "name": "User1",
+    "email": "user1@gmail.com",
+    "role": "user",
+    "passwordHash": "$2b$10$t8PSnwc2qudEMiE4VJqzLuFNe3eJzfE/0gOsauAQTqJXyaINlqdmK",
+    "id": "gr6m3hysu",
+    "createdAt": "2026-06-18T02:53:15.883Z"
+  }
+]

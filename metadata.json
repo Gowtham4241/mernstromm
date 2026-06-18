@@ -1,0 +1,11 @@
+{
+  "name": "Remix: AutoAid AI",
+  "description": "Automotive Diagnostics \u0026 Maintenance Engine powered by Google Gemini AI",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

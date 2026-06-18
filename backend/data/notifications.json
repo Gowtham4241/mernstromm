@@ -1,0 +1,324 @@
+[
+  {
+    "id": "ntf_lxy0rbef8",
+    "userId": "mec_2",
+    "message": "New message received from customer.",
+    "isRead": false,
+    "createdAt": "2026-06-17T19:02:43.430Z"
+  },
+  {
+    "id": "ntf_oc4q9oobz",
+    "userId": "mec_2",
+    "message": "New customer message received",
+    "isRead": false,
+    "createdAt": "2026-06-17T19:02:54.760Z"
+  },
+  {
+    "id": "ntf_16iw3bqkm",
+    "userId": "mec_2",
+    "message": "New customer message received",
+    "isRead": false,
+    "createdAt": "2026-06-17T19:03:12.015Z"
+  },
+  {
+    "id": "ntf_dndq6kqyb",
+    "userId": "z22kkxlm2",
+    "message": "New message received from customer.",
+    "isRead": false,
+    "createdAt": "2026-06-17T19:28:04.079Z"
+  },
+  {
+    "id": "ntf_rih14xnfu",
+    "userId": "a5jp1adby",
+    "message": "Mechanic accepted your repair request.",
+    "isRead": false,
+    "createdAt": "2026-06-17T19:28:15.577Z"
+  },
+  {
+    "id": "ntf_kugknwro3",
+    "userId": "a5jp1adby",
+    "message": "Mechanic replied to your request",
+    "isRead": false,
+    "createdAt": "2026-06-17T19:28:27.465Z"
+  },
+  {
+    "id": "ntf_yhrn1g7lh",
+    "userId": "z22kkxlm2",
+    "message": "New customer message received",
+    "isRead": false,
+    "createdAt": "2026-06-17T19:28:51.747Z"
+  },
+  {
+    "id": "ntf_tsxqff08i",
+    "userId": "z22kkxlm2",
+    "message": "New customer message received",
+    "isRead": false,
+    "createdAt": "2026-06-17T19:43:41.357Z"
+  },
+  {
+    "id": "ntf_20ua48kkw",
+    "userId": "z22kkxlm2",
+    "message": "New customer message received",
+    "isRead": false,
+    "createdAt": "2026-06-17T19:43:51.369Z"
+  },
+  {
+    "id": "ntf_g1ojukt50",
+    "userId": "z22kkxlm2",
+    "message": "New customer message received",
+    "isRead": false,
+    "createdAt": "2026-06-17T19:44:08.889Z"
+  },
+  {
+    "id": "ntf_p9w5iz79r",
+    "userId": "a5jp1adby",
+    "message": "Mechanic replied to your request",
+    "isRead": false,
+    "createdAt": "2026-06-17T20:35:58.267Z"
+  },
+  {
+    "id": "ntf_gvufu78kn",
+    "userId": "z22kkxlm2",
+    "message": "New customer message received",
+    "isRead": false,
+    "createdAt": "2026-06-17T20:36:12.464Z"
+  },
+  {
+    "id": "ntf_nu1wf47zo",
+    "userId": "a5jp1adby",
+    "message": "Mechanic replied to your request",
+    "isRead": false,
+    "createdAt": "2026-06-17T20:36:19.578Z"
+  },
+  {
+    "id": "ntf_c94zxtgez",
+    "userId": "z22kkxlm2",
+    "message": "New customer message received",
+    "isRead": false,
+    "createdAt": "2026-06-17T20:55:52.179Z"
+  },
+  {
+    "id": "ntf_gswnxfgzw",
+    "userId": "a5jp1adby",
+    "message": "Mechanic replied to your request",
+    "isRead": false,
+    "createdAt": "2026-06-17T20:56:04.186Z"
+  },
+  {
+    "id": "ntf_9ozzozcdx",
+    "userId": "z22kkxlm2",
+    "message": "New customer message received",
+    "isRead": false,
+    "createdAt": "2026-06-18T01:50:47.580Z"
+  },
+  {
+    "id": "ntf_jgh3hm3sf",
+    "userId": "a5jp1adby",
+    "message": "Mechanic replied to your request",
+    "isRead": false,
+    "createdAt": "2026-06-18T01:51:00.729Z"
+  },
+  {
+    "id": "ntf_lmshfqtee",
+    "userId": "6a3369cc9919a73dde919be6",
+    "message": "New repair inquiry received from User1",
+    "isRead": false,
+    "createdAt": "2026-06-18T03:46:22.200Z"
+  },
+  {
+    "id": "ntf_6hy84829l",
+    "userId": "6a3369cc9919a73dde919be6",
+    "message": "New customer message received",
+    "isRead": false,
+    "createdAt": "2026-06-18T03:46:31.889Z"
+  },
+  {
+    "id": "ntf_5i27b0a24",
+    "userId": "6a3369cc9919a73dde919be6",
+    "message": "New repair inquiry received from User1",
+    "isRead": false,
+    "createdAt": "2026-06-18T03:47:52.774Z"
+  },
+  {
+    "id": "ntf_tpwvuih1c",
+    "userId": "6a3369cc9919a73dde919be6",
+    "message": "New customer message received",
+    "isRead": false,
+    "createdAt": "2026-06-18T03:48:58.583Z"
+  },
+  {
+    "id": "ntf_qmvfmt7ui",
+    "userId": "6a336c379919a73dde919bf2",
+    "message": "New repair inquiry received from User1",
+    "isRead": false,
+    "createdAt": "2026-06-18T03:56:15.670Z"
+  },
+  {
+    "id": "ntf_q5z7sf8l2",
+    "userId": "mec_qx7b0tlzq",
+    "message": "New repair inquiry received from User1",
+    "isRead": false,
+    "createdAt": "2026-06-18T04:09:16.437Z"
+  },
+  {
+    "id": "ntf_ajbh8om95",
+    "userId": "mec_qx7b0tlzq",
+    "message": "New customer message received",
+    "isRead": false,
+    "createdAt": "2026-06-18T04:09:29.436Z"
+  },
+  {
+    "id": "ntf_co7n0og53",
+    "userId": "mec_qx7b0tlzq",
+    "message": "New customer message received",
+    "isRead": false,
+    "createdAt": "2026-06-18T04:11:51.556Z"
+  },
+  {
+    "id": "ntf_a5v9h1he8",
+    "userId": "mec_qx7b0tlzq",
+    "message": "New customer message received",
+    "isRead": false,
+    "createdAt": "2026-06-18T04:12:29.578Z"
+  },
+  {
+    "id": "ntf_xe6098bjm",
+    "userId": "6a3369799919a73dde919be5",
+    "message": "Mechanic accepted your repair request.",
+    "isRead": false,
+    "createdAt": "2026-06-18T04:17:01.774Z"
+  },
+  {
+    "id": "ntf_9le42y8qf",
+    "userId": "mec_qx7b0tlzq",
+    "message": "New customer message received",
+    "isRead": false,
+    "createdAt": "2026-06-18T04:17:42.491Z"
+  },
+  {
+    "id": "ntf_lg156hqlh",
+    "userId": "6a3369799919a73dde919be5",
+    "message": "Mechanic accepted your repair request.",
+    "isRead": false,
+    "createdAt": "2026-06-18T04:18:12.711Z"
+  },
+  {
+    "id": "ntf_vnzksujmo",
+    "userId": "6a3369799919a73dde919be5",
+    "message": "Mechanic marked your repair request as In Progress.",
+    "isRead": false,
+    "createdAt": "2026-06-18T04:18:14.774Z"
+  },
+  {
+    "id": "ntf_rfgtbkvi6",
+    "userId": "6a3369799919a73dde919be5",
+    "message": "Mechanic replied to your request",
+    "isRead": false,
+    "createdAt": "2026-06-18T04:18:20.182Z"
+  },
+  {
+    "id": "ntf_yxpj3metk",
+    "userId": "mec_qx7b0tlzq",
+    "message": "New customer message received",
+    "isRead": false,
+    "createdAt": "2026-06-18T04:18:27.026Z"
+  },
+  {
+    "id": "ntf_v21h5n1qa",
+    "userId": "6a3369799919a73dde919be5",
+    "message": "Mechanic replied to your request",
+    "isRead": false,
+    "createdAt": "2026-06-18T04:18:33.035Z"
+  },
+  {
+    "id": "ntf_7imxbbjki",
+    "userId": "6a3369799919a73dde919be5",
+    "message": "Mechanic replied to your request",
+    "isRead": false,
+    "createdAt": "2026-06-18T04:18:49.201Z"
+  },
+  {
+    "id": "ntf_8libhrpmw",
+    "userId": "mec_qx7b0tlzq",
+    "message": "New repair inquiry received from User1",
+    "isRead": false,
+    "createdAt": "2026-06-18T04:21:51.606Z"
+  },
+  {
+    "id": "ntf_63od4mv81",
+    "userId": "6a3369799919a73dde919be5",
+    "message": "Mechanic replied to your request",
+    "isRead": false,
+    "createdAt": "2026-06-18T04:21:59.817Z"
+  },
+  {
+    "id": "ntf_0xn3qsufe",
+    "userId": "mec_qx7b0tlzq",
+    "message": "New repair inquiry received from User1",
+    "isRead": false,
+    "createdAt": "2026-06-18T04:28:56.843Z"
+  },
+  {
+    "id": "ntf_kfoldyc2b",
+    "userId": "6a3369799919a73dde919be5",
+    "message": "Mechanic replied to your request",
+    "isRead": false,
+    "createdAt": "2026-06-18T04:29:06.873Z"
+  },
+  {
+    "id": "ntf_7qj2d1zry",
+    "userId": "6a3369799919a73dde919be5",
+    "message": "Mechanic replied to your request",
+    "isRead": false,
+    "createdAt": "2026-06-18T04:32:10.206Z"
+  },
+  {
+    "id": "ntf_0zs41oxp1",
+    "userId": "6a3369799919a73dde919be5",
+    "message": "Mechanic replied to your request",
+    "isRead": false,
+    "createdAt": "2026-06-18T04:32:37.526Z"
+  },
+  {
+    "id": "ntf_s8lmv6tq7",
+    "userId": "mec_qx7b0tlzq",
+    "message": "New customer message received",
+    "isRead": false,
+    "createdAt": "2026-06-18T04:50:21.579Z"
+  },
+  {
+    "id": "ntf_bn3fsrm3r",
+    "userId": "6a3369799919a73dde919be5",
+    "message": "Mechanic replied to your request",
+    "isRead": false,
+    "createdAt": "2026-06-18T04:50:27.058Z"
+  },
+  {
+    "id": "ntf_cdw507o89",
+    "userId": "mec_qx7b0tlzq",
+    "message": "New customer message received",
+    "isRead": false,
+    "createdAt": "2026-06-18T04:51:04.455Z"
+  },
+  {
+    "id": "ntf_jij97h8ts",
+    "userId": "6a3369799919a73dde919be5",
+    "message": "Mechanic replied to your request",
+    "isRead": false,
+    "createdAt": "2026-06-18T04:51:09.617Z"
+  },
+  {
+    "id": "ntf_sipqlhmpl",
+    "userId": "mec_qx7b0tlzq",
+    "message": "New customer message received",
+    "isRead": false,
+    "createdAt": "2026-06-18T04:51:24.458Z"
+  },
+  {
+    "id": "ntf_7fnu7pn67",
+    "userId": "6a3369799919a73dde919be5",
+    "message": "Mechanic replied to your request",
+    "isRead": false,
+    "createdAt": "2026-06-18T04:51:28.235Z"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "bqn53vte7",
+    "userId": "1dfkviblb",
+    "make": "Access",
+    "model": "Access125",
+    "year": 2026,
+    "licensePlate": "7X1234",
+    "mileage": 48000,
+    "lastOilChangeMileage": 48000,
+    "lastTireRotationMileage": 48000,
+    "createdAt": "2026-06-17T03:35:01.626Z"
+  },
+  {
+    "id": "3voaasnv3",
+    "userId": "a5jp1adby",
+    "make": "activa",
+    "model": "3g",
+    "year": 2014,
+    "licensePlate": "JSDDBD",
+    "mileage": 23,
+    "lastOilChangeMileage": 23,
+    "lastTireRotationMileage": 23,
+    "createdAt": "2026-06-17T18:20:38.293Z"
+  },
+  {
+    "id": "q253mu9xh",
+    "userId": "6a3369799919a73dde919be5",
+    "make": "HONDA",
+    "model": "CIVIC",
+    "year": 2026,
+    "licensePlate": "7XYZ123",
+    "mileage": 5200,
+    "lastOilChangeMileage": 5200,
+    "lastTireRotationMileage": 5200,
+    "createdAt": "2026-06-18T05:00:45.528Z"
+  }
+]

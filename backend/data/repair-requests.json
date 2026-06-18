@@ -1,0 +1,35 @@
+[
+  {
+    "id": "req_0b2nh53q0",
+    "userId": "a5jp1adby",
+    "mechanicId": "mec_2",
+    "vehicleId": "3voaasnv3",
+    "damageType": "Dent Repair",
+    "description": "",
+    "status": "Pending",
+    "chatId": "cht_2td0bv9pi",
+    "createdAt": "2026-06-17T19:02:43.430Z"
+  },
+  {
+    "id": "req_7mzmdhr2a",
+    "userId": "a5jp1adby",
+    "mechanicId": "z22kkxlm2",
+    "vehicleId": "3voaasnv3",
+    "damageType": "Dent Repair",
+    "description": "",
+    "status": "Accepted",
+    "chatId": "cht_zalfhpxlb",
+    "createdAt": "2026-06-17T19:28:04.079Z"
+  },
+  {
+    "id": "req_43ymgfmml",
+    "userId": "6a3369799919a73dde919be5",
+    "mechanicId": "mec_qx7b0tlzq",
+    "vehicleId": "direct_contact",
+    "damageType": "General Inquiry",
+    "description": "hey",
+    "status": "In Progress",
+    "chatId": "cht_nfo7bmdmz",
+    "createdAt": "2026-06-18T04:09:16.437Z"
+  }
+]

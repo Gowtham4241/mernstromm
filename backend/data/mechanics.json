@@ -1,0 +1,194 @@
+[
+  {
+    "id": "mec_1",
+    "name": "Mission Auto Care & Tuning",
+    "rating": 4.8,
+    "reviewsCount": 124,
+    "address": "2288 Mission St, San Francisco, CA 94110",
+    "lat": 37.7601,
+    "lng": -122.4194,
+    "phone": "(415) 555-0142",
+    "schedule": "Mon-Sat: 8:00 AM - 6:00 PM",
+    "specialties": [
+      "Brakes",
+      "Suspension",
+      "Engine Diagnostic",
+      "Oil Changes"
+    ],
+    "averageHourlyRate": 95,
+    "distance": "0.8 miles",
+    "createdAt": "2026-06-17T18:12:28.063Z"
+  },
+  {
+    "id": "mec_2",
+    "name": "Pacific Heights Imports Tech",
+    "rating": 4.9,
+    "reviewsCount": 86,
+    "address": "1840 California St, San Francisco, CA 94109",
+    "lat": 37.7905,
+    "lng": -122.4272,
+    "phone": "(415) 555-0178",
+    "schedule": "Mon-Fri: 7:30 AM - 5:30 PM",
+    "specialties": [
+      "Hybrid/EV",
+      "Electrical Repair",
+      "Battery Diagnostics",
+      "Foreign Imports"
+    ],
+    "averageHourlyRate": 120,
+    "distance": "2.4 miles",
+    "createdAt": "2026-06-17T18:12:28.064Z"
+  },
+  {
+    "id": "mec_3",
+    "name": "Golden Gate Collision & Auto Body",
+    "rating": 4.6,
+    "reviewsCount": 202,
+    "address": "1240 Geary Blvd, San Francisco, CA 94109",
+    "lat": 37.7854,
+    "lng": -122.4261,
+    "phone": "(415) 555-0199",
+    "schedule": "Mon-Fri: 8:00 AM - 5:00 PM",
+    "specialties": [
+      "Body Shop",
+      "Scratch & Dent",
+      "Frame Straightening",
+      "Paint Restoration"
+    ],
+    "averageHourlyRate": 110,
+    "distance": "1.9 miles",
+    "createdAt": "2026-06-17T18:12:28.065Z"
+  },
+  {
+    "id": "mec_4",
+    "name": "SOMA Precision Transmissions",
+    "rating": 4.7,
+    "reviewsCount": 54,
+    "address": "899 Folsom St, San Francisco, CA 94107",
+    "lat": 37.7812,
+    "lng": -122.4011,
+    "phone": "(415) 555-0111",
+    "schedule": "Mon-Fri: 8:00 AM - 6:00 PM",
+    "specialties": [
+      "Clutch & Transmission",
+      "Drivetrain",
+      "CV Joints",
+      "Axle Repair"
+    ],
+    "averageHourlyRate": 105,
+    "distance": "1.2 miles",
+    "createdAt": "2026-06-17T18:12:28.066Z"
+  },
+  {
+    "id": "z22kkxlm2",
+    "name": "guru ji",
+    "rating": 5,
+    "reviewsCount": 1,
+    "address": "150 Valencia St, San Francisco, CA",
+    "lat": 37.7749,
+    "lng": -122.4194,
+    "phone": "(415) 555-8899",
+    "schedule": "Mon - Sat: 8 AM - 6 PM",
+    "specialties": [
+      "General Repair",
+      "Diagnostics",
+      "Brakes",
+      "Dents & Paints"
+    ],
+    "averageHourlyRate": 110,
+    "distance": "1.2",
+    "createdAt": "2026-06-17T18:19:26.701Z"
+  },
+  {
+    "id": "6a3369cc9919a73dde919be6",
+    "name": "Mechanic",
+    "rating": 5,
+    "reviewsCount": 1,
+    "address": "150 Valencia St, San Francisco, CA",
+    "lat": 37.7749,
+    "lng": -122.4194,
+    "phone": "(415) 555-8899",
+    "schedule": "Mon - Sat: 8 AM - 6 PM",
+    "specialties": [
+      "General Repair",
+      "Diagnostics",
+      "Brakes",
+      "Dents & Paints"
+    ],
+    "averageHourlyRate": 110,
+    "distance": "1.2",
+    "createdAt": "2026-06-18T03:45:16.578Z",
+    "email": "mechanic@gmail.com",
+    "passwordHash": "$2b$10$2wNa4wifUmKRjzIQ8coxMuhA1Qk9bKm5nIfaX8WleDKz7tSs11Y5O",
+    "role": "mechanic"
+  },
+  {
+    "id": "6a336c379919a73dde919bf2",
+    "name": "Mech2",
+    "rating": 5,
+    "reviewsCount": 1,
+    "address": "150 Valencia St, San Francisco, CA",
+    "lat": 37.7749,
+    "lng": -122.4194,
+    "phone": "(415) 555-8899",
+    "schedule": "Mon - Sat: 8 AM - 6 PM",
+    "specialties": [
+      "General Repair",
+      "Diagnostics",
+      "Brakes",
+      "Dents & Paints"
+    ],
+    "averageHourlyRate": 110,
+    "distance": "1.2",
+    "createdAt": "2026-06-18T03:55:35.353Z",
+    "email": "mechanic2@gmail.com",
+    "passwordHash": "$2b$10$yKzXGO4FA1ef4985ZhwyxegpABF59lxxRuGqftZsOLrjol4hOnqqO",
+    "role": "mechanic"
+  },
+  {
+    "id": "mec_z5wzpq4zj",
+    "email": "mechanic@autoaid.ai",
+    "role": "mechanic",
+    "passwordHash": "$2b$10$RhIk3QH0ztY1gHA8Wgm2u.rRgi7t4D.oE3eMM2TY4K3BgMf/9KCqW",
+    "name": "Mission Auto Care & Tuning",
+    "rating": 5,
+    "reviewsCount": 1,
+    "address": "150 Valencia St, San Francisco, CA",
+    "lat": 37.7749,
+    "lng": -122.4194,
+    "phone": "(415) 555-8899",
+    "schedule": "Mon - Sat: 8 AM - 6 PM",
+    "specialties": [
+      "General Repair",
+      "Diagnostics",
+      "Brakes",
+      "Dents & Paints"
+    ],
+    "averageHourlyRate": 110,
+    "distance": "1.2",
+    "createdAt": "2026-06-18T04:07:49.198Z"
+  },
+  {
+    "id": "mec_qx7b0tlzq",
+    "email": "naveed@gmail.com",
+    "role": "mechanic",
+    "passwordHash": "$2b$10$9W/v47.WwcDVG.Ac9CLLQ.g.6ShBvIBMC/yaw/AZdD63i7yC6J0LO",
+    "name": "Naveed",
+    "rating": 5,
+    "reviewsCount": 1,
+    "address": "150 Valencia St, San Francisco, CA",
+    "lat": 37.7749,
+    "lng": -122.4194,
+    "phone": "(415) 555-8899",
+    "schedule": "Mon - Sat: 8 AM - 6 PM",
+    "specialties": [
+      "General Repair",
+      "Diagnostics",
+      "Brakes",
+      "Dents & Paints"
+    ],
+    "averageHourlyRate": 110,
+    "distance": "1.2",
+    "createdAt": "2026-06-18T04:08:23.812Z"
+  }
+]

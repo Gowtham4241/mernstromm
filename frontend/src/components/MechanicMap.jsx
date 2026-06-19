@@ -50,7 +50,11 @@ export default function MechanicMap({
 
     instance.addControl(new mapboxgl.NavigationControl({ visualizePitch: true }), 'top-right');
     instance.addControl(new mapboxgl.GeolocateControl({
-      positionOptions: { enableHighAccuracy: true },
+      positionOptions: {
+  enableHighAccuracy: true,
+  timeout: 15000,
+  maximumAge: 60000
+},
       trackUserLocation: true,
       showUserHeading: true,
     }), 'top-right');

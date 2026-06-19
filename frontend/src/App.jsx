@@ -9,6 +9,7 @@ import DamageReports from './components/DamageReports.jsx';
 import Mechanics from './components/Mechanics.jsx';
 import AdminPanel from './components/AdminPanel.jsx';
 import Messaging from './components/Messaging.jsx';
+import MechanicMap from './components/MechanicMap.jsx';
 import UserChat from './components/UserChat.jsx';
 import MechanicRequests from './components/MechanicRequests.jsx';
 import Payment from './components/Payment.jsx';
